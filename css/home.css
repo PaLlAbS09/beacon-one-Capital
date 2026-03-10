@@ -467,7 +467,8 @@ header {
 }
 
 .footer-content .quick-links {
-  margin-bottom: 48px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   font-family: var(--SangBleu-family);
 }
 
@@ -616,6 +617,7 @@ header {
   }
 
   .banner-title {
+    padding-top: 50px;
     font-size: 1.9rem;
   }
 
@@ -679,5 +681,8 @@ header {
 
   .text-card {
     padding: 20px;
+  }
+  .quick-links{
+    text-align: center;
   }
 }
