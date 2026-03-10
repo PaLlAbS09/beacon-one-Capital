@@ -650,70 +650,12 @@ header {
 
   .footer-cta-card{
     padding:30px 20px;
+    height: 200px;
   }
 
   .footer-cta-card .touch-card{
     font-size:32px;
     text-align:center;
-  }
-
-}
-
-@media screen and (max-width: 768px) {
-  .swiper-slide-active .avatar-img {
-    transform: scale(1.25);
-  }
-
-  .footer-cta-card .touch-card {
-    font-size: 28px;
-  }
-
-  .banner-title {
-    font-size: 32px;
-  }
-
-  .banner-wrapper {
-    padding: 80px 20px 0;
-  }
-  .footer-logo{
-    margin-bottom: 20px;
-  }
-}
-@media (max-width:480px){
-
-  .navbar-brand{
-    width:100px;
-    height:100px;
-  }
-
-  .banner-title{
-    font-size:1.6rem;
-  }
-
-  .banner-desc{
-    font-size:13px;
-  }
-
-  .btn-primary,
-  .btn-contact{
-    padding:10px 20px;
-    font-size:14px;
-  }
-
-  .property-title{
-    font-size:26px;
-  }
-
-  .build-heading{
-    font-size:26px;
-  }
-
-  .testimonial-heading h2{
-    font-size:26px;
-  }
-
-  .footer-section{
-    padding-top:140px;
   }
 
 }
