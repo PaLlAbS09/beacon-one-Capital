@@ -98,6 +98,10 @@ Live Demo 🚀
 You can view the live version of the project here:
 
 Live Website: https://pallabs09.github.io/beacon-one-Capital/
+
+
+
+
 Learning Objectives
 
 This project demonstrates:
